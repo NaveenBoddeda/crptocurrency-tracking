@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.crypto-item-container {
+  background: transparent;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.crypto-image {
+  height: 20px;
+  width: 20px;
+  border-radius: 10px;
+}
+.logo-name-cont {
+  display: flex;
+}
+.value {
+  margin-left: 70px;
+}
